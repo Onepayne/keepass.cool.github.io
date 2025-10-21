@@ -1,10 +1,5 @@
 ✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23600
-Fork on GitHub8091
+
 <h1 align="center">Hi 👋, I'm Ronan Plantec</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
