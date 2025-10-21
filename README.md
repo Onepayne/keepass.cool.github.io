@@ -1,5 +1,4 @@
-README.md
+https://keepass.cool
+====================
 
-- **Profession :** Computer sciences
-- **Top skills or favorite technologies:** (TCP/IP, Unix, C, HTML, CSS, JavaScript, Java, Scala)
-- **A short bio:** (The Internet)
+Documentation en français de KeePass 1.x et 2.x
