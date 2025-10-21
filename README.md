@@ -16,7 +16,7 @@ Fork on GitHub8091
 
 - 📫 How to reach me **rplantec@laposte.net**
 
-- 📄 Know about my experiences [TCP/IP](TCP/IP)
+- 📄 Know about my experiences [TCP\/IP](TCP/IP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
