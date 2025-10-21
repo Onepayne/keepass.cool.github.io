@@ -1,15 +1,11 @@
 ✨
 
-<h1 align="center">Hi 👋, I'm Ronan Plantec</h1>
+<h1 align="center">Hi 👋, I'm Onepayne</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
 - 🔭 I’m currently working on [KeePass](https://www.keepass.cool)
 
 - 🌱 I’m currently learning **C++**
-
-- 📝 I regularly write articles on [https://blog.keepass.cool](https://blog.keepass.cool)
-
-- 📫 How to reach me **rplantec@laposte.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
